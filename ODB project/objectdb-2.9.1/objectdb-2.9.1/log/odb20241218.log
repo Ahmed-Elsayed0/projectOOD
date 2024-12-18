@@ -1,0 +1,749 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 11:42:35 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12200@DESKTOP-C4GGND4
+
+[2024-12-18 11:42:35 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 11:43:53 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' has been recovered (tr. 1-2)
+
+[2024-12-18 11:43:54 #2 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1608@DESKTOP-C4GGND4
+
+[2024-12-18 11:43:54 #3 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:43:54 #4 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 11:43:54 #5 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 11:43:54 #6 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 11:43:54 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1608@DESKTOP-C4GGND4
+
+[2024-12-18 11:43:54 #8 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1608@DESKTOP-C4GGND4
+
+[2024-12-18 11:43:54 #9 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:43:54 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1608@DESKTOP-C4GGND4
+
+[2024-12-18 11:43:54 #11 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1608@DESKTOP-C4GGND4
+
+[2024-12-18 11:43:54 #12 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:43:54 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1608@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 11:44:24 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 9088@DESKTOP-C4GGND4
+
+[2024-12-18 11:44:24 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:45:21 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 9088@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 11:47:14 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:47:14 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 11:47:14 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 11:47:14 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 11:47:14 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:47:14 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:47:14 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13916@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:14 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 11:47:14 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13916@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 11:47:54 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 8832@DESKTOP-C4GGND4
+
+[2024-12-18 11:47:54 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 12:11:31 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 8832@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 12:11:35 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 16324@DESKTOP-C4GGND4
+
+[2024-12-18 12:11:35 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:10:53 #1 explorer] 
+[ObjectDB 2.9.1] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:771)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:741)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:947)
+	at com.objectdb.o.LFL.x(LFL.java:904)
+	at com.objectdb.o.LFL.x(LFL.java:814)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ap(MST.java:109)
+	at com.objectdb.o.MSF.Z0(MSF.java:190)
+	at com.objectdb.o.OMF.s(OMF.java:816)
+	at com.objectdb.jpa.EMF.s(EMF.java:130)
+	at com.objectdb.o.OMF.x(OMF.java:722)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 16 more
+
+[2024-12-18 19:13:21 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 16324@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:13:28 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:13:28 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 19:13:28 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 19:13:28 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 19:13:28 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:13:28 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:13:28 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12412@DESKTOP-C4GGND4
+
+[2024-12-18 19:13:28 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:13:28 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 12412@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:19:16 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:16 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 19:19:16 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 19:19:16 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 19:19:16 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:16 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:16 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:16 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:16 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:17 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:17 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:17 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:17 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:17 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:17 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:17 #22 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2940@DESKTOP-C4GGND4
+
+[2024-12-18 19:19:17 #23 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:19:17 #24 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2940@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:21:10 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12752@DESKTOP-C4GGND4
+
+[2024-12-18 19:21:10 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:28:17 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 12752@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:29:30 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:29:30 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 19:29:30 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 19:29:30 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 19:29:30 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:29:30 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:29:30 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:30 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:29:30 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:31 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:31 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:29:31 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:31 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1360@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:31 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:29:31 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1360@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:29:45 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13396@DESKTOP-C4GGND4
+
+[2024-12-18 19:29:45 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:34 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13396@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:39:41 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:41 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:41 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 19:39:41 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 19:39:41 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 19:39:42 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:42 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:42 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:42 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:42 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 13420@DESKTOP-C4GGND4
+
+[2024-12-18 19:39:42 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:39:42 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 13420@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:40:07 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 12208@DESKTOP-C4GGND4
+
+[2024-12-18 19:40:07 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:40:50 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 12208@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:41:28 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:41:28 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 19:41:28 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 19:41:28 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 19:41:28 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:41:28 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:41:28 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:41:28 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:41:28 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 14064@DESKTOP-C4GGND4
+
+[2024-12-18 19:41:28 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:41:28 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 14064@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:42:12 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:12 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:42:12 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 19:42:12 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 19:42:12 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 19:42:12 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:12 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:12 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:42:12 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:12 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:12 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:42:12 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:13 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:13 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:42:13 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:13 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:13 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:42:13 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:13 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 1464@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:13 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 19:42:13 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 1464@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 19:42:22 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 988@DESKTOP-C4GGND4
+
+[2024-12-18 19:42:22 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:32:04 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 988@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:34:03 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:03 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:34:04 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 21:34:04 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 21:34:04 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 21:34:04 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:34:04 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:34:04 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:34:04 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:04 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:34:05 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:05 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2440@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:05 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:34:05 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2440@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:34:15 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 2516@DESKTOP-C4GGND4
+
+[2024-12-18 21:34:15 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:36:05 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 2516@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:38:43 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:43 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:38:43 #3 type] 
+Type university.Faculty is not enhanced.
+
+[2024-12-18 21:38:43 #4 type] 
+Type university.Enrollment is not enhanced.
+
+[2024-12-18 21:38:43 #5 type] 
+Type university.Course is not enhanced.
+
+[2024-12-18 21:38:43 #6 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:43 #7 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:43 #8 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:38:43 #9 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #10 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #11 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:38:44 #12 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #13 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #14 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:38:44 #15 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #16 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #17 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:38:44 #18 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #19 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 6912@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:44 #20 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:38:44 #21 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 6912@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:38:54 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 15860@DESKTOP-C4GGND4
+
+[2024-12-18 21:38:54 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
+[2024-12-18 21:42:10 #3 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is closed by 15860@DESKTOP-C4GGND4
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-12-18 21:59:32 #1 store] 
+Database 'E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\db\odbtest.odb' is opened by 16484@DESKTOP-C4GGND4
+
+[2024-12-18 21:59:32 #2 store] 
+Configuration path: E:\ODB project\objectdb-2.9.1\objectdb-2.9.1\objectdb.conf
+
